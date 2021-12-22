@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "cf5a69f1-da1d-4807-9966-1db2ca324af8": {
+      "ProjectGuid": "cf5a69f1-da1d-4807-9966-1db2ca324af8",
+      "DisplayName": "pr 14 teselko 01.01",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Прочие файлы",
+      "ColorIndex": -1
+    },
+    "3c2e7c51-0bd4-4d4b-b364-a274c1f22181": {
+      "ProjectGuid": "3c2e7c51-0bd4-4d4b-b364-a274c1f22181",
+      "DisplayName": "LibMas",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

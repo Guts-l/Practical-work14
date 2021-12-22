@@ -1,0 +1,23 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net5.0-windows</TargetFramework>
+    <RootNamespace>pr_14_teselko_01._01</RootNamespace>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="information_icon_book_help.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\LibMas\LibMas.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="information_icon_book_help.jpg" />
+  </ItemGroup>
+
+</Project>
